@@ -1,0 +1,3 @@
+{
+  "app": "npx ts-node bin/tundra_aws.ts"
+}
